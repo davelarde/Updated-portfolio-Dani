@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+}
+.colorimg{
+    background-image: url("https://images.pexels.com/photos/4552690/pexels-photo-4552690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size:100%;
+}
+.bg1{
+    background-image:url("https://skift.com/wp-content/uploads/2017/12/mscseaside-1024x683.jpg");
+  
+}
+.bg2{
+    background-image:url("https://redcapwalkingtours.com/wp-content/uploads/900x600-1-50-38f52995e61104f3b048a9c605a895e8.jpg");
+    background-position: center;
+}
+.bg3{
+    background-image:url("https://cdn.kanootours.com/media/catalog/product/cache/1/small_image/500x434/9df78eab33525d08d6e5fb8d27136e95/w/o/worlds-most-dangerous-road-8_1.jpg");
+    background-size:100%;
+}
+.bg4{
+    background-image:url("https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg");
+
+}
