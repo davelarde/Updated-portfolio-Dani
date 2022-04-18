@@ -1,4 +1,5 @@
 console.log("hello");
+
 // to redirect and download pdf
 jQuery(document).ready(function($) {
     $('a[href$=".pdf"]')
