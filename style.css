@@ -21,6 +21,10 @@ body{
     background-image:url("https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg");
 
 }
+
+.bg5{
+    background-image: url("https://www.tripsavvy.com/thmb/FwmQ-JvBEBDDlVb-j_zdEo0iVsA=/2048x1152/smart/filters:no_upscale()/beach-5b59c9b7c9e77c004b3e0ff0.jpg");
+}
 .card :hover{
     filter:brightness(4);
     cursor: pointer;
