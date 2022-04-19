@@ -9,18 +9,23 @@ As an update to my previous portfolio, you will be able to see some changes in t
 
 
 
+
 # Mockup:
-![Landmarkd Live demo](./demo/Live%20demo%20.gif)
+![Updated Portfolio Live demo](./Demo/gif%201%20updated.gif)
+![Updated Portfolio Live demo](./Demo/gif%202%20updated.gif)
 
 # Please click on the link below to access to the github repository.
 
-https://github.com/A-mart24/Project1
+https://github.com/davelarde/Updated-portfolio-Dani.git
 
-# Please click on the link below to access to the deployed link for Landmarkd.
+# Please click on the link below to access to the deployed link for my Updated Portfolio.
 
-https://a-mart24.github.io/Project1/#!
+https://davelarde.github.io/Updated-portfolio-Dani/
 
+# Please click on the link below to access to the deployed link to my First Portfolio and notice the changes.
 
+https://davelarde.github.io/Porfolio-Dani/
 
 # Contributors
-Aidan Hamann, Jeff Hicks , Alex Martinez, Daniela Velarde
+ Daniela Velarde
+ danielavelarde4@gmail.com
